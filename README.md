@@ -26,3 +26,5 @@ That's it, you're good to go!
 5. **`Push origin`**.  This updates the cloud repository on GitHub to include your newly uploaded file, along with the descriptions you write. 
 
 You're done!
+
+[credit to Logan Matuška for the GitHub tutorial that this writeup was based on]
