@@ -4,10 +4,11 @@ This GitHub repo is the location members of the Reflections Audio Team should su
 
 
 ## Using GitHub
-- First, make an account, using your school email or your own email. Make sure that it's clear that your account is you, or let us know what your username is so we can keep track of who's who.
-- Download the [GitHub Desktop](https://desktop.github.com/download/) app and sign in.
-- **Clone this repository.**
-	- Select `Current Repository` in the desktop app, clicking the `Add` dropdown, and selecting `Clone Repository..`
+1. so we can keep track of who's who.
+2. Ping **@KP** on Discord with your username ASAP, so you can be added as a collaborator to the repository. 
+3. Download the [GitHub Desktop](https://desktop.github.com/download/) app and sign in.
+4. **Clone this repository.**
+	- Select `Current Repository` in the desktop app, click the `Add` dropdown, and select `Clone Repository..`.
 	- Next, select `URL` and type the URL of this repo: `CKP-139/Deliverables_Reflections_Audio` and click `Clone`.
 	- Save the folder to a safe location on your computer or hard drive.
 
